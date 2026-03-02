@@ -16,7 +16,7 @@
 - 🌱 Always learning something new
 
 <!-- Badge -->
- [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/jelitaamy_?igsh=ZDMybXJnMnMyeWFr&utm_source=qr) [<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/313a6kjcih4lcgoxoi2qe7xpxtqi?si=s4yKdE1LQUmjEVQnnKA8AA) ![Visits Badge](https://badges.pufler.dev/visits/jelitaamy/jelitaamy?style=for-the-badge)
+ [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/jelitaamy_?igsh=ZDMybXJnMnMyeWFr&utm_source=qr) [<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/313a6kjcih4lcgoxoi2qe7xpxtqi?si=s4yKdE1LQUmjEVQnnKA8AA) 
 
 <!-- Icon -->
 ## 📝Tech Stack
