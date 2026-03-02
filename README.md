@@ -1,15 +1,16 @@
 <!-- Banner -->
 ![header github](img/github-header-banner.png)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="240" width="100%"> 
 
 ## 🐬About Me
 <!-- Deskripsi diri -->
 > > I'm a fourth-semester Information Technology student at the University of North Sumatra, Faculty of Computer Science and Information Technology. I'm interested in Front-End Development and UI/UX Design.
 
-🙋🏻‍♀️My nickname is Jelita.
-📌NIM 241402117
-🧩My hobby is playing games🎮 like Roblox and PUBG. I also like 🎧listening to music,especially songs by Taylor Swift.
+- 🙋🏻‍♀️ Nickname: Jelita
+- 📌 NIM: 241402117
+- 🧩 Hobby: Playing games 🎮 (Roblox & PUBG)
+- 🎧 Love listening to music, especially songs by Taylor Swift
 
 <!-- Badge -->
  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/jelitaamy_?igsh=ZDMybXJnMnMyeWFr&utm_source=qr) [<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/313a6kjcih4lcgoxoi2qe7xpxtqi?si=s4yKdE1LQUmjEVQnnKA8AA) ![Visits Badge](https://badges.pufler.dev/visits/jelitaamy/jelitaamy?style=for-the-badge)
@@ -35,7 +36,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jelitaamy&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=dracula&count_private=true" alt="jelitaamy" width="420"/>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="240" width="100%"> 
 
 <!-- pacman -->
 <picture>
