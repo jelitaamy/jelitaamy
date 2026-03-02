@@ -1,7 +1,7 @@
 <!-- Banner -->
 ![header github](img/github-header-banner.png)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%"> 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> 
 
 ## 🐬About Me
 <!-- Deskripsi diri -->
@@ -39,7 +39,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jelitaamy&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=dracula&count_private=true" alt="jelitaamy" width="420"/>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%"> 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> 
 
 <!-- pacman -->
 <picture>
