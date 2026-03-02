@@ -5,7 +5,7 @@
 
 ## 🐬About Me
 <!-- Deskripsi diri -->
-> > I'm a fourth-semester Information Technology student at the University of North Sumatra, Faculty of Computer Science and Information Technology. I'm interested in Front-End Development and UI/UX Design.
+> I'm a fourth-semester Information Technology student at the University of North Sumatra, Faculty of Computer Science and Information Technology. I'm interested in Front-End Development and UI/UX Design.
 
 🙋🏻‍♀️ Nickname: Jelita <br>
 📌 NIM: 241402117 <br>
